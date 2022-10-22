@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ExpenceApp/static/css/main.e0d08db9.chunk.css",
+    "main.js": "/ExpenceApp/static/js/main.7456125d.chunk.js",
+    "main.js.map": "/ExpenceApp/static/js/main.7456125d.chunk.js.map",
+    "runtime-main.js": "/ExpenceApp/static/js/runtime-main.223f40b9.js",
+    "runtime-main.js.map": "/ExpenceApp/static/js/runtime-main.223f40b9.js.map",
+    "static/js/2.973d6158.chunk.js": "/ExpenceApp/static/js/2.973d6158.chunk.js",
+    "static/js/2.973d6158.chunk.js.map": "/ExpenceApp/static/js/2.973d6158.chunk.js.map",
+    "index.html": "/ExpenceApp/index.html",
+    "static/css/main.e0d08db9.chunk.css.map": "/ExpenceApp/static/css/main.e0d08db9.chunk.css.map",
+    "static/js/2.973d6158.chunk.js.LICENSE.txt": "/ExpenceApp/static/js/2.973d6158.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.223f40b9.js",
+    "static/js/2.973d6158.chunk.js",
+    "static/css/main.e0d08db9.chunk.css",
+    "static/js/main.7456125d.chunk.js"
+  ]
+}
